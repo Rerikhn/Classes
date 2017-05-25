@@ -1,0 +1,16 @@
+
+Current options: count = 5, index = 1
+[1; 1; 1; 4; 2]
+
+Current options: count = 5, index = 1
+[2.76128; 4.8507; 1.24097; 2.507; 2.16166]
+
+Current options: count = 5, index = 1
+[1; 1; 1; 4; 2]
+
+Current options: count = 6, index = 0
+[1; 2; 3; 4; 5; 6]
+
+Current options: count = 5, index = 0
+[0; 0; 0; 0; 0]
+Find 

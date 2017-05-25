@@ -1,0 +1,5 @@
+﻿D:\Program Files\Visual Studio 2017 Pro\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Classes.cpp
+c:\users\nikita\source\repos\sample\classes\consoleapplication2\classes.cpp(154): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nikita\source\repos\sample\classes\consoleapplication2\classes.cpp(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
